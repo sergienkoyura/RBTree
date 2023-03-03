@@ -40,7 +40,7 @@ public class RBtreeController {
 
     static final String url = "jdbc:mysql://localhost:3306/mydbtest";
     static final String user = "root";
-    static final String password = "admin";
+    static final String password = "root";
     public static Connection connection;
     public static Statement statement;
     public static ResultSet resultSet;
