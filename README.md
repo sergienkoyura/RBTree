@@ -1,5 +1,5 @@
 # Desktop visualization of Red-Black tree
-This is an application where you can *see how the RB tree works*.
+This is a desktop application with UI where you can *see how the RB tree works*.
 ## Functionality
 * insert nodes
 * delete nodes
